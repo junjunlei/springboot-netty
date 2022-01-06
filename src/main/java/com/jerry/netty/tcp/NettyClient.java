@@ -1,4 +1,4 @@
-package com.jerry.netty;
+package com.jerry.netty.tcp;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.buffer.ByteBuf;

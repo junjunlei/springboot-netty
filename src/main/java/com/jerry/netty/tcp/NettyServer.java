@@ -1,5 +1,4 @@
-package com.jerry.netty;
-
+package com.jerry.netty.tcp;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
